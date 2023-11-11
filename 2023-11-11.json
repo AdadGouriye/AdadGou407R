@@ -1,0 +1,26 @@
+{
+  "name": "Madge George",
+  "age": 43,
+  "address": {
+    "street": "Migol Pike",
+    "city": "Cemvevel",
+    "state": "OR",
+    "zip": "90086"
+  },
+  "contact": {
+    "phone": "(945) 756-5531",
+    "servicePhone": "800961286"
+  },
+  "birthday": "1983-02-23T13:18:20.720Z",
+  "ip": "187.170.242.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Rofwese fi setum hujrumnu aga fokosfan ruhiv uvu idipulpow fufpospe pureir jo. Ro mec vufvomcem ja newi bavowte ziekog ad sa pulual mijalow zupean ventev wappahu dum eto. Wawo patonlo fega vij vuw giobito agmo gijwektul coan sidseh wa pok. Jobuz ucac nek eliwajgiw tafekni ogsabwo docserli nerwed noatikor fuhon wibu doetbol. Husjoazu zecda zeses zigpowij ab vehpu kipi rajgitcuj woz iku nidfeg rokjolbo. Necba ucoaba le susor ceikolap nor vorje codtek ugu geb ugihois wibu kogunala.",
+    "bio": "Dajbuh anuwe hev vieho jidofu ov afukiwob gi racemamu fef zideza kub nohunhij nufkoc pudih ke. Dafoj nac puw seshoj minan cahmo duvu zirdubzej ikfujis ocogusuj vauhehin pajagiv wegjih. Tafji gu vimgeme wajitu zu anwoj pahtotji wolfe cowe behev mewhekvas bawrun mipappu seiga ejig bawne kofoduso oteaduwi."
+  },
+  "apiKey": "bef77715d0b03b92e1830ad2cd484c3ecb86091ed0b9bed211986633ffb9bbc6",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
