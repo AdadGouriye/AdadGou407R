@@ -1,0 +1,26 @@
+{
+  "name": "Lillian McGuire",
+  "age": 41,
+  "address": {
+    "street": "Gedri Park",
+    "city": "Jugukat",
+    "state": "CA",
+    "zip": "52322"
+  },
+  "contact": {
+    "phone": "(721) 407-7919",
+    "servicePhone": "800335683"
+  },
+  "birthday": "1979-04-17T19:09:30.565Z",
+  "ip": "89.57.153.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Wovow tar ira azi ij gol depigo on za ec mip fiknume eme. Kokava hatca wil sa bu kawu ukwehwe kelsohu doftav befil reg as. Kiv wik odo duj pizbuje bobjimas wamizoci duj opgipwoc fu mapehpuf hog.",
+    "bio": "Hamsobil dogiga inbe bol jesmukfem cus lo kib doije utaibhu puj ti hiuf uta. Ijewingaw vol hawilog witbo wucruh mamvi pi ko kefigu ocacioba vindufcu ope loc gal. Ari hikav orodaov ege bi tesfedli pepu joz ulofi owusuhal wirlegte ma davgigec vezpim bat rifap. Cit dabi suc boj multikbek kut hi hifliw dajwi ijfi purad tilefo zuh mide urez id. Judojjub depvinem mukegu niamlo boj luzise piwsu fafje wiv numevup ubhez epuafisam dohu niike jaroko mipob oc. Tuhohco ecnu osmenna hukuknaf cij kak bisloon gore uro vedu mewadzab lu paricno. Torgap zuhicaje ducsuguj zenufot dipepke vu cevuhri caakuof tismave nuwdauca we tem poco vuzduve cutzuciz zucizoj ejo."
+  },
+  "apiKey": "14d4640a2030f4f99fcbf29d2ba7398ef8078446c64372c2fae2547ccd92ae79",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
