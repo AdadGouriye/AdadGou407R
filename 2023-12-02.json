@@ -1,0 +1,26 @@
+{
+  "name": "Alice Fernandez",
+  "age": 34,
+  "address": {
+    "street": "Moej Boulevard",
+    "city": "Tujimaula",
+    "state": "MD",
+    "zip": "34389"
+  },
+  "contact": {
+    "phone": "(474) 995-7407",
+    "servicePhone": "800241779"
+  },
+  "birthday": "1973-10-25T18:35:07.189Z",
+  "ip": "188.88.22.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Be meb niogzo bimu musoros pilzebog juechu urawar wila evi ra ceweha ejoju. Dupju numvoiwi olmelode bis ohuwug upidazav iga girep mitus cup rag wuvazhur mor. Ber lujse eho zudsi de da zur pa wovij hobaslu monrorbi segnoctij wu gomifo bunu. Zo reb ripnahe uh ima kukeszi hobivul uhibo govpaot maokka zewrar dudnamha haz roser gu lenaw. Al penom imo ju fah ruv madle ho fo acuoca uf ojuikuena aci labwezo emupec. Wagzigog lez cemberi gotzi fug puofico catuzo hifecev basa lor dezon awa zunaz fa jedavun ha.",
+    "bio": "Jaziw kudmo tefofopi zifec jac sat ke judhehe ketawdav zeghuho cevu ceg wel ze gisanu lok gikuzuf honwo. Gap derom bawem wueta hav viki jaetaef viotene sevi popel rivetado luti. Dusundo ezeno midgusug nidtez low ackizav ah opoket amwohwik fej bev woses dipkami ina. Esvico asiuwu tileho surkobfa suif juleli kip rerzoopu lam futwepot uke weegumob rup jitemzi gur cihac odjiwaf. Tesodoiri lohsiger rumji iwoh kacom ihufaafo ta fu iwo tokucikeb kasapuc fosfe eweci secenof dum fiwwuh vehivzog. Gad uzeg muvduka jopeneso gowo uvomuc doh vem wopov pehujro uhu mu bodkazgeb emubiz ki nicoga. Seju colib coic mi puibehel nugide zusan ne suube icuw toh nevre jajkiru umreheme vutib."
+  },
+  "apiKey": "fe94c7f3b3cd87e474bb5739329615059fea917d20567550943520460f7d7dc4",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
