@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Austin",
+  "age": 21,
+  "address": {
+    "street": "Fuwim Drive",
+    "city": "Nabgoadi",
+    "state": "WA",
+    "zip": "72539"
+  },
+  "contact": {
+    "phone": "(955) 558-5943",
+    "servicePhone": "800519485"
+  },
+  "birthday": "1991-06-06T07:39:34.977Z",
+  "ip": "150.55.91.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Urofur zetotbiz pico rawdaffe totuteko mohi nu be guoko gedodu vopugek apdomla. Ajaaz gut ifdekad vumvekbu feffuci muw invabzuz ow ves ve kugwugu vul wev kijif jifinofi edfewaw fe kuozit. Ru anakotod vahuzot tizfum vi kijbowzak ji so suvihi jizhecu puw rusgisid oh oc na.",
+    "bio": "Na maho ukecuw vo lazujo gen rur faozav is diblazjoj sir puka purozev kuf gel agupo fazo viltun. Cez be pi on jezboz jazepo gojnahed hokadeb ud ejfa ub zewgo kedadbu tuzohget muma ju wagjed. Fagubfuk gagjur rilrerek rumi lez tomnikev nuucbo sikwo siboc kun isa logdi povo."
+  },
+  "apiKey": "408873160fff117067c50e3a5bf1c95eee1628313c7f013aa1eae032b283b5cc",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
