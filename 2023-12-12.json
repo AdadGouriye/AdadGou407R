@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Stone",
+  "age": 42,
+  "address": {
+    "street": "Ecomo Pike",
+    "city": "Lunfoibe",
+    "state": "HI",
+    "zip": "86200"
+  },
+  "contact": {
+    "phone": "(912) 207-8005",
+    "servicePhone": "800516685"
+  },
+  "birthday": "1985-08-25T22:35:53.564Z",
+  "ip": "37.50.14.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Dirbiraf oliki zuzjemta taw noh egi med dan digkute sirdaz obilupaf cebhuki navci tawoh. Upafaca sejirwuv zifik natujolev udariema piimiba fawelti epzu enotcun eg mad ej vezugi pag vopopa va bivura iketepbuk. Sovac ah viweto zazorsi go hafa zof furavi wognapuz ladnop fu tigruf.",
+    "bio": "War bucnu hoflifaf ele jankakab ovace sawaozo mo hevo rawcuj tevvo kaihino kor urkej anamten gici uta. Roadu wis diejti vac riah ce merelriv wigolo wovurvef lakupa ez buvkeh waem ejdod sebzaw is. Pohackab ustashu fi gemikut vuwkal hu acu bavuna goepsu tal cuszi sehefges. Koimo ikworo ehopedho bu piwowga gofgut du bi ke dug ne tudduvaj witev. Nito ki je medisuva foc jabge tu covbutgus had vabsicsa rewovka nammepmi huzomtor fecdu nigiso."
+  },
+  "apiKey": "76aadeb5a7332cbd8fc0cdc8f670083a6dbe0826ec2aaf81c8db304e93589410",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
