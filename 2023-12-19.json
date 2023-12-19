@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Wagner",
+  "age": 37,
+  "address": {
+    "street": "Lozni Junction",
+    "city": "Ulvonren",
+    "state": "ND",
+    "zip": "99428"
+  },
+  "contact": {
+    "phone": "(616) 853-8105",
+    "servicePhone": "800123954"
+  },
+  "birthday": "1983-08-08T06:03:31.357Z",
+  "ip": "210.223.133.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Tevju duihipu zongoz ak ahafuz buc iffal buvzilco iceufni so fef keas naghek pughe. Rupicoro awgul nowarnu majhuw ed lu og obu mucvowo lok ja basfut. To ujabgo ijzuih ehealesol jehhugu jacen ave pecsik vu fisofodaw lo joehmi wu ubit soj laldi. Fi majkagdo lem fedozod inu beh vila vuru mowmim tazahvu idfe rih zo.",
+    "bio": "Corwosros abovahti ec pubera teetzo roganosa veprom mero zisup suzhaali afe ce gucros av bocuhci ko nev. Ec lezib aw hu ojboz atzo jo co nu gine gifip urolo suvka didmopu fizwuap giak wetaplat. Ruikupir amrak morufu zuwac ewoaz gerhuil du usina jo hovuzup gopihovu bamfahca. Mugef nahurri zizpa meva fegde cawurfa um ir san ca zaac dimnev gume ofzotud fosup. Ariazagu ja cihhor fuju eda som iktun si wobvugrew koszunbu su deoruje fujtom zeb. Lu papus vipjo su pik ac oleruk ucnat paz fon sanu koam ma re ceh rot ucuujkos. Ha ba takpimev sumpaj welne da wimim rif dapi ho efetame iwura javmeb igavohon miuguvec iji hivimi."
+  },
+  "apiKey": "d50ebcd74ca020d5a1da3a72f88f3c4c3b5eb5cd938712f7b5f0ba6a6aa55a9a",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
