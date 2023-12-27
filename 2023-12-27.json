@@ -1,0 +1,26 @@
+{
+  "name": "Georgia Horton",
+  "age": 38,
+  "address": {
+    "street": "Renhu Manor",
+    "city": "Woltamo",
+    "state": "WA",
+    "zip": "27323"
+  },
+  "contact": {
+    "phone": "(200) 385-3266",
+    "servicePhone": "800585864"
+  },
+  "birthday": "1962-08-26T04:35:03.836Z",
+  "ip": "40.233.41.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Kazsa ze firot tu purecim gi babieva likohoj osu javo johdennib giw jutotjuk diwte osa wuh. Vihdajif ro sogsa ukooro wop vi habud uri cuc ji dapof tipetaz mige katuveke zapedocu pi huromcag mu. Jezihooc ufura noplowcij ahubo fojenogo fosa ifovomac vase idegap dokpoho guuviasa bo eloicisub akcac vucviwuv. Ji cohgimaz faluz jog mubgenuf cilosno eliuthim caomotes hefgaguk rumur lomeg kekpebim. Zeke jim helnivnag gat wemcopto sic jos jehispe ba wiglaaz hiaf de cet obi. Afu kebe renvigav colol ozis biow kavajef iroiwa rabozoj wublismec duowikin jacnijuf.",
+    "bio": "Kuisapom sesej luoz oh fehotasac lozek butkiofo uvojavuw ded wobkes duzvoje avsip. Vivupzi wab cewekmo ifusuwpe me ipe hebgid hig zedo cehpu je perivet utu cukwigpu vauh ejobuhuwi opuviud. Tihzobeh jefij vaz lomu etfogi remojafi uk hasesfaw hosge tudo onu pulak javar. Vijtakah cim gowufeto gumife sonefoteg hamajo ko raro owu tokci kugiz ugdil wobsa. Tu siplep sukwijwi ujfotge uhpah ohtami ven bihjer ke ko sutdut wabgek ja zuh hoduvove. Kudmatmi hamunfeh jifuifa cole milzigov towmu seubom la ewofe tozi deus rehuje zu."
+  },
+  "apiKey": "15f8eaa53577e17fcfaae8bd315f857371f77fcf405b4b9acf3622c59c9c5d10",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
