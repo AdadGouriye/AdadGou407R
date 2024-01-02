@@ -1,0 +1,26 @@
+{
+  "name": "Inez Saunders",
+  "age": 57,
+  "address": {
+    "street": "Heen Court",
+    "city": "Runrekhu",
+    "state": "AL",
+    "zip": "22840"
+  },
+  "contact": {
+    "phone": "(968) 223-7474",
+    "servicePhone": "800188658"
+  },
+  "birthday": "1981-09-06T13:02:01.098Z",
+  "ip": "245.30.247.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Vigwugog pev tu za ojle vofkafdu ocbig su dolud ej zedduj wennada ebmopewa wosiji vigigbik. Uwofidame tisocce ba recuho fo co kospein ewuajupo mo logab guto suvobmih ric lu. Egotuso tu ba idvezzik eblolgo picfig ima edubuero fubmolo hutlu lakij ruswuz.",
+    "bio": "Viw fo bihulgu da nopecoju um fot iwe ene hicta ze ha de zo jolzurec be. Je vamkor ruztuhid la jec pa tori tokziv nuvmija co doda cazwol tif wejos lem tedha nicac. Fohcicga gaco oce gocera raida kuathut ibbirocu hecpizag pi da sozemabe pojpalazi dispej tum."
+  },
+  "apiKey": "c1f5356b4ff0531a49d2effc7aa1c9324f99e41a83d52f4f53326e3e689a06ce",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
