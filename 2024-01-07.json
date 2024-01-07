@@ -1,0 +1,26 @@
+{
+  "name": "Maud Underwood",
+  "age": 19,
+  "address": {
+    "street": "Konpeb Extension",
+    "city": "Papine",
+    "state": "FL",
+    "zip": "66167"
+  },
+  "contact": {
+    "phone": "(552) 211-3594",
+    "servicePhone": "800871884"
+  },
+  "birthday": "1998-09-25T21:35:35.595Z",
+  "ip": "117.75.242.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Vut otoim uv avi owuoda wob felisele walkuoj poh ud seez gusowvo aj mora. Nemzafaju hepi rijsipzo kazbem nilguwdej jikus zi vozrenah gutiwpa ekiepoju vozlo uzuno efa avahu. Mozvicufu opdinre magip zaw babo ophuvlah wuh fufiri surazaf go civnanav abuji muirvu.",
+    "bio": "Ceg co re gi bognunuf aza raosuro ig umo jaip fifjo runbocme zibhi hoola. Avewizbeb zueniweh jebre ba of rakouf wergob sacpenhit va tozbiop fadal vufivoket tinfu hisaja ebelommaf zatah. Fod pi ped adafewoz ucpa upza uvwif gemtob lipzu rusfu ta ocaejigah picubdo cokerdav zehi tuda. Vuireze sih tujis ugru jebu gihvomdi te ceupemu muvvaz pazmehavo wicul afca ohuavu pewuv hoz."
+  },
+  "apiKey": "cdadd1c16c4de9bbbf9231b6376c15fac166fb23b040690fa9a4fa66f4d9ae85",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
