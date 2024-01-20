@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Hammond",
+  "age": 54,
+  "address": {
+    "street": "Sinej Grove",
+    "city": "Iwierek",
+    "state": "MA",
+    "zip": "04008"
+  },
+  "contact": {
+    "phone": "(837) 227-8978",
+    "servicePhone": "800422686"
+  },
+  "birthday": "1990-01-14T01:13:00.427Z",
+  "ip": "28.109.0.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Javna ripjo kepicrig ela egola ohgosom gaf si lotut got zev ashuf usued nebhigol. Foddif dunecu cagok ew lik gilgoga gowzol joisof mafowna huh feleg ihizi ziube. Odbekep nu kikvepuv coveja wasned uhpo ka om ok ubusac modzesev kowrefago harfel. Roap gez co unibop munoaw vonenwoc ne puwsuifu fej pive taad fe vak vumun ceh wa terti. Pibe paw hec bukfaz larwo woh celadru daasped nagpu ut bus hubhosa cak eku. Soikaute af ho lotvujbi cugsi ife lijpilsuz bojazih wogousa isokojo jan wov.",
+    "bio": "Puogma ipelogeg jecim viuk duseh pu pizi tob iceguof bu ul ze watdemke uc ras vigmu. Iltukdu nukdinro dolgo zedku ejame isojawaf abejupfi ufauhfiz ovufir touf cozfuveg disin azute ivupah. Toces ruc lezwac domkoavu opnovwo gu jol ostev se cobag aji kaumo mip. Uv be aguwet etahe pig gamjijrit ezeifvin kecedmu pi et ahra la he bil tumgaluc kiwbab."
+  },
+  "apiKey": "d47523bf87cf3fce55e5d6b9c3ed7aeeaa90d0baf98f3e9c6872a9c44e499660",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
