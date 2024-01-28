@@ -1,0 +1,26 @@
+{
+  "name": "Chester Tyler",
+  "age": 30,
+  "address": {
+    "street": "Pinre Parkway",
+    "city": "Gujiwofi",
+    "state": "VA",
+    "zip": "06521"
+  },
+  "contact": {
+    "phone": "(709) 362-1897",
+    "servicePhone": "800445135"
+  },
+  "birthday": "1982-08-18T00:20:48.186Z",
+  "ip": "145.228.199.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi suhesu lu fo huj gaosu ze wessohik dad ucnafdu womfu hajijipo wemas miuge tatwa irohowdu. Zow vo if abto un kajri lajutlus omho ridremwic mal uca tawja. Kepzovu kafne ku tihfaw taeru sez bej at pildihta hev onvuh enhelpe geh enu. Ojcakgil ak me wevek ivoda supe nehuvtud sojveuhi buh wuvbu fove akgizud cefgi huco boczenhuw uf zakte nivlob. Zifleeni loj nusa fuwdoca duzget vo hizjumahu go sueto nuv kihweclo roasu co kucere salpe laric ve.",
+    "bio": "Hebbami jij dulfu nevzu igebaw im anjof no hadebor askonrad regekeb zuj mopifuf rom jijeni hez ocumakpa nesufo. Sotas bal fog ezufoida goh mibdedes mewel kez kug ozze donah me hipa. Nozu ol ki ci be cewmih matnuzken duumki muwobuz ogunu niszaberu sadpifih puwizi ficbe sadekrum idlu jobbahro ija. Risuh jevato cihbo jo dufze dupsotwu tuvwowlat kipo oceludoga jolvafig veddoci funjet te denencen pes. Ge etnilfus liwe wuinahom ragin pimeffef mumuwe gomiwub dap zafliklot ujkuj zezaz wuic. Ogfep gew enesodi vakidir vo ocabolzow calahev le zazac hismacu ifodi mu tujbozfak rojwetar if motgu. Retsiju fiz savu go poimu gibiwed iv kafulrah lupwe botabef wucseena iz konafcu ogu foskeji ospa."
+  },
+  "apiKey": "c6f6238d74f612a24512ed901ace925a62db7309df8c38a7f59aab92cd6c86a8",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
