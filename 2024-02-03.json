@@ -1,0 +1,26 @@
+{
+  "name": "Mark Kelley",
+  "age": 55,
+  "address": {
+    "street": "Caru Road",
+    "city": "Kimildos",
+    "state": "MA",
+    "zip": "44052"
+  },
+  "contact": {
+    "phone": "(800) 764-8200",
+    "servicePhone": "800874888"
+  },
+  "birthday": "1984-06-14T11:01:01.038Z",
+  "ip": "127.211.238.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Lew ko hu we wu tuhu iwi dapaci rehtoceku homnis rugelas ahila. Biwuhe lo zoc ucorawfa orfo vet ribge am ollafo tu tin ikijuna ko gu ovesem muur mawne. Tibojuw icu mih haf mot ucobuoro fifjuh cozupasi bojmim ud owega uwi.",
+    "bio": "Pu cageljo gen ajvecter evadedac runojo gen iga punuz vezep wa zesze bus. Ukuez ti badub ed ecjugig nozoijo fidfaf favvar icuma lusmi hi zomi cubugsov. Fij odeose dec bami co deweosu fejwompo vactabe wurhuzat fijo efve moamewog kawnigi gige ijokazru wiovokop tazwutom kobgohhi. Cu jupwosife vevgu asbigo zo hen jihehzah roodu rihij hovkidge gaihu ruhimza niwbajlit cow me enuk cisu. Dobugsid cazica vigcujuw alo di ke unbigbu senzava veibi giz gesi ima tuwka ru nahgep afikigab."
+  },
+  "apiKey": "e4cac28d10bd02b90e9e433828febb2949a40b328c5266ce84086e7d00f1ae99",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
