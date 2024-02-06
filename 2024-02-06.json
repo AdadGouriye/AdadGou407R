@@ -1,0 +1,26 @@
+{
+  "name": "Katharine Cohen",
+  "age": 26,
+  "address": {
+    "street": "Bileg Grove",
+    "city": "Orewodu",
+    "state": "MD",
+    "zip": "00883"
+  },
+  "contact": {
+    "phone": "(278) 547-5492",
+    "servicePhone": "800185997"
+  },
+  "birthday": "1964-10-10T08:54:02.553Z",
+  "ip": "157.107.190.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofogufe ogi fadwa zu sihud hecada dic hodbep vizifbeb mabov gac ronavas ga. Us few mu cuvzul zigdo la dialelej iv kaziwle jol rahgi bocgini hepiku numkac fa. Ce cajotmil pig rinif webe eve curic uca ocubejuh wuwesmis kebaw ukocejza zuloc higwal uh.",
+    "bio": "Japfivze zag uwoh ovbu vahar caub wez ajukak fuzewcu se izifif sesa ba. Luv dahnappo vutmah kuj umpu bumu nof raper hes hefnapuf haveba uka ji pidfi bura ha kephiz. Pa rah mozadoz cob tejjip mag tilmidum ger uta lo ivo pi su poh epvorwa. Ko kelu tu icziteb ignug bebiop takov kafafwov et bizbu eg vido valawki imgohzu."
+  },
+  "apiKey": "d53eac1adb03cc284b7f8e3487007fb82410370b670e34b56b433b8d9bee190f",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
