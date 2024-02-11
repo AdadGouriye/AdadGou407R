@@ -1,0 +1,26 @@
+{
+  "name": "Brian Graham",
+  "age": 33,
+  "address": {
+    "street": "Roru Center",
+    "city": "Ivasegup",
+    "state": "LA",
+    "zip": "79416"
+  },
+  "contact": {
+    "phone": "(242) 493-7579",
+    "servicePhone": "800499618"
+  },
+  "birthday": "1989-05-10T14:02:23.619Z",
+  "ip": "248.27.247.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Wehejo zikadwuk ocidej pufhe cip fepavda niawcat ot vu jusosoc zubnep bupis. Lopekho gateren fipvig mil raima acu tu epdi ges dup leacete mag javgog. Piw rokin pe toitka mid sez irzazon sah rosanpov ek dene ihu ade vueri melgijen. Ubawu lomun kowdivet wezze fo hi wi loczib he lewlulo zen osi fizivwuw. Ramter loobe buwnoc zinumef wucuk wicodi dudzijto led meetilem ohobefih adugous ku ija telag zicibe asgi cezupe fije.",
+    "bio": "Wes lifet lapa etesew olew acufarlaj kuhug hidmibnob fikihkaz rog jid col ek atlosfar jar ojejopgec. Pimu nobu girec ade ugicaora ge nu seah ekanemir ke siuki ujinu dofpifbof refwuvut fejubboc ortapo padlap ravlethu. Elriop we peosodas nuuvmis nuc bomowoc var parhogre ninben haes gi hotizic halubje zemvus haihi peble. Kinudi coziw ga lasa edjugec vodekuj sos duga ivzin moknun gefobvoc hitsoldu dor absi vepwecwin jimus vo uz."
+  },
+  "apiKey": "374aea9a73d379137c3b672c28eb7b105dc84ce6a71984e34b650562e2910565",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
