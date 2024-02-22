@@ -1,0 +1,26 @@
+{
+  "name": "Effie Smith",
+  "age": 32,
+  "address": {
+    "street": "Cenva Boulevard",
+    "city": "Uvduki",
+    "state": "ND",
+    "zip": "29531"
+  },
+  "contact": {
+    "phone": "(323) 692-4622",
+    "servicePhone": "800568692"
+  },
+  "birthday": "1989-07-01T10:56:09.319Z",
+  "ip": "33.151.220.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi mev titihdof zabbutoj tokibu mehsi hidsaczeb elilib si oko bukul zut. Epzode nuh lob zorgadvel urti aleja ehaub gisiz bec copucu jawog une cime nitkavjid. Ocfapcu fe hu deb roloj wifcurhe ubo adani oclu tu wi pogipur. Aze ni budij izbe nidcoden zerik coagi depa caguf sevu ge leziwaki ha ehe.",
+    "bio": "Je mu iwoh nafizeh weh do gijutuw vos nega supeju wehla dasva olevirvip edi kuju le vihwa cepnobo. Vafo oj uv reten zi hemufow ziuke ilkocac zef kewehfon sitlorbub bog. Agenikozi direp tuwoh du ok ehukunik teamuzu zetsoven pokug ohdu notat mervois zu. Pivovko poakros ceahonu uzbew zo de mozurmer mefuhoj loc uwibes botog hizes ne. Ketestim suhhuvof epizo geebupo loezaubi dutraag voviveb in wablozzes upu la oribu wapkumer fez. Ran tadcopim hiburap rafpeso efubugwac hisgavfu wa at cekcizviw ib obbosep bozertid po is fil. Tigvetiko ridlo bafuw pibzedsi sadhifna hodiwas nencosij evo bukji dehteeto soj ra vebic edmemog."
+  },
+  "apiKey": "15d9fa7be11b4916ebed668baa59e7587a55a5a9d0d9bbcaf6ff70236178943b",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
