@@ -1,0 +1,26 @@
+{
+  "name": "Rena Ross",
+  "age": 51,
+  "address": {
+    "street": "Oteza Parkway",
+    "city": "Bothaun",
+    "state": "NJ",
+    "zip": "84684"
+  },
+  "contact": {
+    "phone": "(941) 769-7238",
+    "servicePhone": "800439713"
+  },
+  "birthday": "2001-12-26T06:27:56.386Z",
+  "ip": "150.28.230.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Nom huke ik dejafa tu evediwjar hop upo gew wu lasbo him zukul tigug pup tiniwu. Lu segfog hodivrud dec co ogu revi ricim hugbuito tirup me vur um guroc. Ge wikat nuvnuk muwen kudlapah siwlemceb hi paga bohup hemura lo vikil usiko onja jeuwjer iglopij.",
+    "bio": "Amefesfe za so cor zeus gupow banosfa jof ge pofhe cep efo kujo ra fuvobi. Ab sawazka nolrara osemeke magus wakow zabrom usomul wanro sid fewazme luvu pi. Puveltu vit ceoj cirkuvhul pirogruz vi vogailu sikape hucawvu pon cockampa ir bupis secaw di sipo dorjukel vudimeg. Fighe lifed jachuw joowu wugi fehufalov leforpu hudep ut kansafzoj moja gadad so da bop rozosled."
+  },
+  "apiKey": "041bec55ab8c72983788950232871b58630d81fb09b60c2f06faa82e38489572",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
